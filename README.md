@@ -7,7 +7,7 @@ Software developer with technical training in Mechatronics and a degree in Syste
 
 
 # 🔗 Social Media
-[![My Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emanuel-silva-36a670229/) [![My Social Media](https://skillicons.dev/icons?i=devto)](https://dev.to/emanuel_silva) 
+[![My Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emanuel-silva-36a670229/)   [![My Social Media](https://skillicons.dev/icons?i=devto)](https://dev.to/emanuel_silva) 
 
 
 # 👩‍💻 Technologies
